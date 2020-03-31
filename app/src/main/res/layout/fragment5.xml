@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:background="#e0f2f1"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent">
+
+    <RelativeLayout
+        android:padding="10.0dip"
+        android:layout_width="wrap_content"
+        android:layout_height="fill_parent">
+        <EditText
+            android:textColor="#000"
+            android:gravity="top"
+            android:background="#BDBDBD"
+            android:paddingLeft="10.0dip"
+            android:paddingTop="4.0dip"
+            android:paddingRight="4.0dip"
+            android:scrollbars="vertical"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:hint="Decode text will be display here" />
+    </RelativeLayout>
+</RelativeLayout>

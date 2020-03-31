@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Stegnography</string>
+    <string name="open">open</string>
+    <string name="close">close</string>
+    <string name="clear">clear</string>
+    <string name="paste">paste</string>
+</resources>
